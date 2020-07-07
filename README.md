@@ -18,6 +18,6 @@ Run the Docker Container Image
 * navigate to the URL provided in the console
 
 ## Keep up to date
-* [Visit my blog](https://darrenjrobinson.com)
-* ![](http://twitter.com/favicon.ico) [Follow darrenjrobinson on Twitter](https://twitter.com/darrenjrobinson)
+* ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=16%2C16&ssl=1) [Visit my blog](https://darrenjrobinson.com)
+* ![](http://twitter.com/favicon.ico) [Folllow darrenjrobinson](https://twitter.com/darrenjrobinson)
 
