@@ -19,5 +19,5 @@ Run the Docker Container Image
 
 ## Keep up to date
 * ![](https://i1.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2017/02/cropped-WPSiteIcon.jpg?fit=16%2C16&ssl=1) [Visit my blog](https://darrenjrobinson.com)
-* ![](http://twitter.com/favicon.ico) [Folllow darrenjrobinson](https://twitter.com/darrenjrobinson)
+* ![](http://twitter.com/favicon.ico) [Follow darrenjrobinson](https://twitter.com/darrenjrobinson)
 
