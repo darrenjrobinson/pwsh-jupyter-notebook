@@ -22,7 +22,7 @@ RUN apt-get install -y powershell
 # Dot Net SDK 
 RUN apt-get install -y apt-transport-https && sudo apt-get update && sudo apt-get install -y dotnet-sdk-3.1 
 # Install lastest build from master branch of Microsoft.DotNet.Interactive from myget
-RUN dotnet tool install -g Microsoft.dotnet-interactive --version 1.0.140402 --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json"
+RUN dotnet tool install -g Microsoft.dotnet-interactive --version 1.0.148003 --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json"
 
 # Copy startup script
 COPY ./config/start-jupyternotebook.sh ${HOME}
