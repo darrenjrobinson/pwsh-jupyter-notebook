@@ -20,7 +20,8 @@ RUN apt-get update
 RUN apt-get install -y powershell
 
 # Dot Net SDK 
-RUN apt-get install -y apt-transport-https && sudo apt-get update && sudo apt-get install -y dotnet-sdk-3.1 && sudo apt-get install -y dotnet-sdk-5.0
+RUN apt-get install -y apt-transport-https && sudo apt-get update && sudo apt-get install -y dotnet-sdk-3.1 
+RUN sudo apt-get install -y dotnet-sdk-5.0
 # Install lastest build from master branch of Microsoft.DotNet.Interactive from myget
 # RUN dotnet tool install -g Microsoft.dotnet-interactive --version 1.0.155302 --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json"
 # Now on Nuget and myget repo is deprecated. 
